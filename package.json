@@ -47,6 +47,8 @@
 		"zod-validation-error": "^3.3.1"
 	},
 	"dependencies": {
-		"@zachleat/heading-anchors": "^1.0.1"
+		"@zachleat/heading-anchors": "^1.0.1",
+		"algoliasearch": "^5.23.4",
+		"instantsearch.js": "^4.78.1"
 	}
 }
