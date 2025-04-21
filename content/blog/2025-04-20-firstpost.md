@@ -6,5 +6,3 @@ tags:
   - life
 ---
 
-- No more working for someone else
-- No more working with someone I do not repsect
