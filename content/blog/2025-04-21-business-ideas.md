@@ -12,3 +12,4 @@ tags:
 - Consider pros and cons of selling to the customer vs. selling to the company. 
 - Find niche markets that are underserved. 
 - Rather than builing an AI product (token costs), build a traditional product and use AI to build it. 
+- See if you can run LLM, MCP client, MCP servers locally and make your computers work and make money for you now.
